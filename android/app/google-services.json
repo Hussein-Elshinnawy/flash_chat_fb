@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861295440825",
+    "project_id": "flash-chat-fb",
+    "storage_bucket": "flash-chat-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861295440825:android:b32e7e88c4ebe379403c68",
+        "android_client_info": {
+          "package_name": "com.shennawy.flash_chat_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqV5rR-Y-Tphrvz4RJxPoI87JIImyfS0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
